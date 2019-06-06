@@ -1,2 +1,2 @@
-# MyHTML
-repository for my personal HTML (WIP)
+# JavaScript Homework
+currently set for assignment 11
