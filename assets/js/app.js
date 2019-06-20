@@ -109,7 +109,7 @@ yText
   .attr("data-name", "obesity")
   .attr("data-axis", "y")
   .attr("class", "aText active y")
-  .text("Obese (%)");
+  .text("Obesity (%)");
 
 // 2. Smokes
 yText
@@ -118,7 +118,7 @@ yText
   .attr("data-name", "smokes")
   .attr("data-axis", "y")
   .attr("class", "aText inactive y")
-  .text("Smokes (%)");
+  .text("Smokers (%)");
 
 // 3. Lacks Healthcare
 yText
